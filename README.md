@@ -9,7 +9,7 @@ The latest developer documentation can be found at https://docs.cere.network
 
 You can also follow our important activities via:
 
-* Forum - Coming soon
+* Contributor Forum - https://github.com/Cerebellum-Network/contribute/discussions
 * Community support - https://t.me/ceretroubleshooting
 * Community Telegram - https://t.me/cerenetwork_official
 * Cere Announcements - https://t.me/cerenetwork
@@ -21,7 +21,7 @@ Note: Regional and language specific communities can be found in the pinned anno
 
 ## Cere Network Contributor Forum
 
-When in doubt or curiosity, please post in the Cere Network community forum!
+When in doubt or curiosity, please post in the [Cere Network community forum](https://github.com/Cerebellum-Network/contribute/discussions/categories)!
 
 * Ask questions
 * Collect community feedback feature proposals
