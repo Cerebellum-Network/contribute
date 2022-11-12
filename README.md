@@ -50,4 +50,4 @@ Cere meetups: COMING SOON
 Current maintainers of this repository are: @calmrat (chris.ward@cere.network)
 
 ### License
-The Filecoin Project is licensed under GPL-3. See LICENSE.md
+GPL-3. See LICENSE.md
