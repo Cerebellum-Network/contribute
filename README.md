@@ -15,7 +15,7 @@ You can also follow our important activities via:
 * Cere Announcements - https://t.me/cerenetwork
 * Cere Network blog: https://cere.network/blog/
 * Youtube: Cere Network
-* Twitter: @CereNetwork
+* Twitter: @CereNetwork - https://twitter.com/cerenetwork
 
 Note: Regional and language specific communities can be found in the pinned announcement on https://t.me/cerenetwork_official
 
