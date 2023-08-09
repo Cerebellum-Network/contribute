@@ -45,9 +45,7 @@ The path Cerian’s follow can be laid out as a simple Contributor's Journey.
 
 2️⃣ Complete [onboarding](https://www.notion.so/Cere-Onboarding-Bounty-738ceabdcc704dcda236160c954d9a8d?pvs=21) to register and quickly build your reputation.
 
-3️⃣ Complete one or more Guild Contributor Challenges to become Ambassador.
-
-4️⃣ Participate in the [Cere Ambassador Leaderboard](https://www.notion.so/How-to-get-Ambassador-Guild-role-in-Discord-22cbe7de2ef44f74b347915f18e94f69?pvs=21) for exclusive access & prizes.
+3️⃣  Complete [Registration](https://noteforms.com/forms/contributor-sign-up)
 
 # How to Join the Network?
 
