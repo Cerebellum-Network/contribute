@@ -121,11 +121,6 @@ Additionally, you are **eligible** to participate in the Program if you meet **a
 - You are of legal age and have the legal capacity to give your consent to the terms of these Program Rules.
 - You have followed the [responsible disclosure policy](https://www.notion.so/Responsible-Disclosure-Policy-ced2b2c1238f403e9f44b692f6e2c695?pvs=21).
     
-Responsible disclosure includes adhering to strict confidentiality and not publishing sensitive information in public, on Github, or anywhere else that might compromise this program’s operational security. 
-- You are able to send an invoice for the payment, unless otherwise negotiated.
-- If you are acting in the name of and on behalf of your employer, you must clearly state this during the Registration Process and confirm that you are authorized to give your consent to the terms of these Program Rules in the name of and on behalf of your employer. You are responsible for reviewing your employer's rules for participating in this Program. Cere disclaims any and all liability or responsibility for disputes arising between you and your employer related to this matter.
-- Public Sector Employee: if you are a public sector employee, please contact our Bug Bounty team at [security@cere.io](mailto:security@cere.io) using the details above prior to any testing activities
-
 You are **not eligible** to participate in the Program if you meet **any** of the following criteria:
 - You do not fulfill all the above criteria
 - You are a resident or a national of any country subject to international or Swiss sanctions
@@ -136,14 +131,13 @@ You are **not eligible** to participate in the Program if you meet **any** of th
 
 ## Contact Us
 For general inquiries, write us with any questions at [community@cere.io](mailto:security@cere.io).
-
 To report a potential security issue, write us at [security@cere.io](mailto:security@cere.io). 
 Learn more about our [Responsible Disclosure Policy](https://www.notion.so/Responsible-Disclosure-Policy-ced2b2c1238f403e9f44b692f6e2c695?pvs=21).
 
 # Appendix
 ## Severity Legend
 - **Critical**: Critical severity issues present a direct and immediate risk to a broad array of our users or to a Cere network product itself. 
-**High**: High severity issues allow an attacker to read or modify highly sensitive data that they are not authorized to access. They are generally more narrow in scope than critical issues, though they may still grant an attacker extensive access.
+- **High**: High severity issues allow an attacker to read or modify highly sensitive data that they are not authorized to access. They are generally more narrow in scope than critical issues, though they may still grant an attacker extensive access.
 - **Medium**: Medium severity issues allow an attacker to read or modify limited amounts of data that they are not authorized to access. They generally grant access to less sensitive information than high severity issues.
 - **Low & Info**: Low & informational issues allow an attacker to access extremely limited amounts of data. They may violate an expectation for how something is intended to work but allow nearly no escalation of privilege or ability to trigger unintended behavior by an attacker.
 
