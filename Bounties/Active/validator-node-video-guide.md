@@ -10,9 +10,7 @@ Looking for Help
 We are looking for an Ops Guild contributor to create a high-quality screencast tutorial that demonstrates how to deploy a Validator Node on the Cere Network. This tutorial will serve as a Quickstart Guide for new and existing members of our community who are interested in becoming a validator. Text guide should be included too.
 
 ## Reward
-A $500 Tester bounty is up for grabs to the first to submit an acceptabled solution will receive $500. 
-
-Other's will recieve additional bonuses and SWAG.
+A $500 Tester bounty is up for grabs to the first to submit an acceptabled solution.  Other's will recieve additional bonuses and SWAG.
 
 This is a bounty designed for Cere Testers, but available to anyone. 
 The most accurately described article brief and heading outline will be selected to complete the final article and receive the bounty.
