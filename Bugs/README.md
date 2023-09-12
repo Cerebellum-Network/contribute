@@ -1,4 +1,4 @@
-# Cere Bug Bounty
+# Contributor Bug Bounty
 Cere invites bug hunters, security experts and ethical hackers to identify and report potential bugs and security vulnerabilities in the Cere Network ecosystem. We believe that by taking a proactive approach we improve the network’s security, ensuring a safer environment for all current and future users and their data. 
 
 ## Background
@@ -9,7 +9,7 @@ With Cere Network and the DDC being such a complex system, plus the fact there a
 ## How to Start
 - Step 1: Sign-up via [this form](https://noteforms.com/forms/contributor-sign-up) to register as a Contributor.
 - Step 2: Report any potential issues discovered.
-  ⚠️ **DO NOT CREATE ANY PUBLIC ISSUE OR POSTS related to (potential) security related findings**. See the [Responsible Disclosure](https://www.notion.so/Cere-Bug-Bounty-d6d2b20f473d43d39c93294335e29015?pvs=21) section below for more details.
+  ⚠️ **DO NOT CREATE ANY PUBLIC ISSUE OR POSTS related to (potential) security related findings**. See the [Responsible Disclosure](https://www.notion.so/Responsible-Disclosure-Policy-ced2b2c1238f403e9f44b692f6e2c695?pvs=21) section below for more details.
 
 That’s it! A member of the the Cere Community team will reach out about your experience completing this mission and clarify any final questions regarding your registration and share additional details about getting started onboarding to Cere Network.
 
@@ -107,7 +107,7 @@ Instead, send an email to security@cere.io, sharing your preferred contact meth
 
 Responsible disclosure includes adhering to strict confidentiality and not publishing sensitive information in public, on Github, or anywhere else that might compromise this program’s operational security. 
 
-If you’re not sure, reach out via [security@cere.io](https://www.notion.so/b9db00101824422f8a7c29de5e7c9c7a?pvs=21) with any questions.
+If you’re not sure, reach out via [security@cere.io](mailto:security@cere.io) with any questions.
 
 ### General Issues & Other Feedback
 For general feedback, share your discoveries using this form  ⇒ https://cere.network/feedback.
@@ -135,7 +135,7 @@ You are **not eligible** to participate in the Program if you meet **any** of th
 - You currently (or within six months prior to providing us your Submission) perform services for Cere or a Cere subsidiary in an external staff capacity that requires access to the Cere Network, such as agency temporary worker, vendor employee, contractor.
 
 ## Contact Us
-For general inquiries, write us with any questions at [community@cere.io](https://www.notion.so/Cere-Bug-Bounty-d6d2b20f473d43d39c93294335e29015?pvs=21).
+For general inquiries, write us with any questions at [community@cere.io](mailto:security@cere.io).
 
 To report a potential security issue, write us at [security@cere.io](mailto:security@cere.io). 
 Learn more about our [Responsible Disclosure Policy](https://www.notion.so/Responsible-Disclosure-Policy-ced2b2c1238f403e9f44b692f6e2c695?pvs=21).
