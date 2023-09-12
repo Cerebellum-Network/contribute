@@ -1,26 +1,38 @@
-# PROPOSAL TITLE
-## Proposal submitted to Cere Foundation on DATE by WHO
+# Create a Comprehensive CERE Testnet Token Swap Guide
 
 ## Project Slug & Git Branch
-(eg) fix-bug-in-repo-ddc-sdk-js
+cere-testnet-token-swap-guide
 
 ## Status
 Looking for Help
 
-## Bounty Description
-Provide funding to ….
+## Objective
+In this task, we would like to ask Cere Angels to write a new derivative article targeted at a more general audience, with instructions on how to convert and swap Cere Testnet Tokens in general. Aka, write an  informative and user-friendly article about converting and swapping Cere Testnet Tokens and ERC-20 CERE tokens.
+
+## Reward
+A $500 Angel bounty is up for grabs!
+
+This is a bounty designed for Cere Angels, but available to anyone. The most accurately described article brief and heading outline will be selected to complete the final article and receive the bounty.
 
 ## Abstract
 [< 250 words] with [references] linked in REFERENCES below.
 
 ## Background
-- Introduction: Provide context and background information.
-- Importance: Explain why this guide is necessary.
-[< 1000 words] with [references] linked in REFERENCES below.
+Navigating the world of token conversion and swapping can be daunting, especially for those new to the crypto space. This article will serve as a comprehensive guide, making it easier for everyone to engage with the Cere ecosystem.
 
-## Objective
-- Purpose: Briefly describe the objective of this article.
-- Target Audience: Specify the intended readership (e.g., beginners, general audience, experts).
+The aim of this article is to create a derivative article that simplifies the process of converting and swapping Cere Testnet Tokens. The article should be targeted at a general audience and offer step-by-step instructions on various methods for token conversion and swapping. Video Demo included (minimum: audio walk through with desktop screen share; aspect ratio 16:9.
+
+[< 1000 words] Additional background with [references] linked in REFERENCES below.
+
+## Deliverables
+Your article should cover real-world examples (we will supply the CERE Tokens):
+
+- **Faucets**: How to use Faucets on Cere, Ethereum and Polygon to get tokens on testnet?
+- **Token Bridging**: How to bridge CERE tokens from Mainnet to Ethereum and Polygon.
+- **DEX Swapping**: Instructions for swapping Cere ERC20 tokens on at least two DEXes (Polygon, Ethereum).
+- **CEX Swapping**: Instructions for swapping Cere ERC20 tokens on at least one CEX.
+- **Polkadot.js Wallet Guide**: How to work with CERE Testnet Tokens using the Polkadot.js wallet.
+- **Cere Wallet Wallet Guide**: How to work with CERE Testnet Tokens using the Cere Wallet (https://wallet.cere.network).
 
 ## Team
 - NAME 1 (ROLE @ ORG): THIRD-PERSON BIO
@@ -31,8 +43,6 @@ Provide funding to ….
 
 ## Link to Logo image 1:1 (in github)
 - ...
-
-## Other Bio and details or thoughts, etc.
 
 --- 
 ## How to Apply
