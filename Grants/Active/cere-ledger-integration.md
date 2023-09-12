@@ -1,4 +1,4 @@
-# CERE Ledger Integration
+# CERE Ledger Integration - Grant up to $25,000+
 Cere invites proposals from qualified external developers to deliver Ledger hardware support for Cere Network, a Substrate based nPoS blockchain.
 
 ## Grant Objective

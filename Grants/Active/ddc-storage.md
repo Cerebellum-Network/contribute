@@ -1,5 +1,5 @@
-# Unlock a Grant for $5,000 with Free DDC Cloud Storage!
-Cere Network x Decentralized Data Storage Developer Bounty: Unlock up to $5,000 for Your Project with Free Cloud Storage! 
+# Unlock a Grant for $10,000 with Free DDC Cloud Storage!
+Cere Network x Decentralized Data Storage Developer Bounty: Unlock up to $10,000 for Your Project with Free Cloud Storage! 
 
 ## Grant Objective
 If you're a developer exploring options for a network where you can develop your application with secure, decentralized cloud storage, look no further! Cere Network is excited to unveil a specialized bounty program tailored just for you. By integrating your project with Cere's Decentralized Data Cloud (DDC), you could earn a substantial grant reward.
@@ -20,7 +20,7 @@ That said, there are still a few requirements your project proposal will be judg
 - **Utilize DDC Storage Smart Contract**: You are required to call the DDC storage smart contract, whether using smart contracts, an existing DDC SDK, or any other novel approach you might bring to the table.
 
 ## Reward
-Your project could receive up to $5,000 along with additional free cloud storage, simply by integrating with Cere DDC's decentralized storage solutions.
+Your project could receive up to $10,000 along with additional free cloud storage, simply by integrating with Cere DDC's decentralized storage solutions.
 
 ## Evaluation Criteria
 1. Technical expertise in blockchain development, particularly on Substrate.

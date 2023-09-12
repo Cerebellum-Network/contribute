@@ -1,4 +1,4 @@
-# Power your IoT with DDC Decentralized Cloud Storage
+# Power your IoT with DDC Decentralized Cloud Storage - Grant up to $25,000+
 This bounty is a golden opportunity for those who are passionate about the Internet of Things (IoT) and decentralized technologies. This Devel guild mission invites IoT device and protocol developers to connect into the Cere Network decentralized cloud storage solution.
 
 ## Introduction

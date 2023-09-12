@@ -1,4 +1,4 @@
-# Open Access AI & LLM Datasets on the DDC
+# Open Access AI & LLM Datasets on the DDC - Grant up to $50,000
 Cere invites proposals to develop a system that allows for the storage of AI LLM datasets and models on DDC, ensuring data availability in perpetuity.
 
 ## Introduction

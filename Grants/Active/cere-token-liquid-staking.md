@@ -1,4 +1,4 @@
-# Liquid Staking Derivitives for Staked Tokens on Cere Network - Grant up to $10,000
+# Liquid Staking Derivitives for Staked Tokens on Cere Network - Grant up to $10,000+
 We’re calling developers for sharing their solutions for Liquid Staking Derivatives for Staked Tokens on Cere Network. [Apply now!](https://noteforms.com/forms/cere-grants-application-el0u0b)
 
 ## Introduction

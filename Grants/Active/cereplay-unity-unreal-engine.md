@@ -1,4 +1,4 @@
-# Add CerePlay Unity/Unreal Engine Support
+# Add CerePlay Unity/Unreal Engine Support - Grants up to $10,000+
 Grant CFP: Develop new CerePlay SDKs to support Unity/Unreal Engine.
 
 ## Grant Objective
@@ -32,7 +32,7 @@ Interested developers should provide:
 4. A pricing model: either an hourly rate or a fixed project fee.
 
 ## Reward
-Your project could receive up to $50,000 grant along with additional free cloud storage.
+Your project could receive up to $10,000 grant along with additional free cloud storage.
 
 ## Evaluation Criteria
 1. Technical expertise in blockchain development, particularly on Substrate.

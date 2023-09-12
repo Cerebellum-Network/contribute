@@ -1,4 +1,4 @@
-# Add DDC Python SDK
+# Add DDC Python SDK - Grants up to $10,000
 Request for Grant Proposals: Porting Cere DDC JS SDK to Python 3.
 
 ## Grant Objective
