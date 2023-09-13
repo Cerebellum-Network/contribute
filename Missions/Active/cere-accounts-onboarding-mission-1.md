@@ -1,6 +1,5 @@
 ## Mission Objective
-
-Developers! Are you looking to get started building and deploy apps and services on top of the Cere Network Blockchain and the new Decentralized Data Cloud storage protocol? This missions will teach you ...
+Developers! Start building and deploying apps on top of the Cere Network Blockchain and new Decentralized Data Cloud storage protocol! Complete these onboarding steps to set-up your Cere Account and earn your first 500 CERE Token on Mainnet.
 
 <aside>
 📌 *Cere Contributor’s only:* 
