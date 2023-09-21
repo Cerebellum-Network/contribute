@@ -1,10 +1,10 @@
-# Grant Tracks
+# Contributor Tracks
 
-The Cere Grants Program targets technology-oriented projects of protocol layer and applications that serve a wide range of users. The program provides guidelines for various areas such as runtime modules/chains, development tools, UI development, backend development, cryptography, research, and documentation. 
+The Cere Contributor Program targets technology-oriented projects of protocol layer and applications that serve a wide range of users. The program provides guidelines for various areas such as runtime modules/chains, development tools, UI development, backend development, cryptography, research, and documentation. 
 
-Cere is currently accepting Grant Proposals that cover all all areas of the Cere Stack, including innovations in Web2 Application integrations, bleeding edge, on-chain Dapps and Smart Contract systems, development and testing tools, optimizations, and other ideas that are important for the Cere Network and the Decentralized Data Cloud ecosystem.
+Cere is currently accepting Proposals for Grants, Hackathons and other such development activities that cover all all areas of the Cere Stack, including innovations in Web2 Application integrations, bleeding edge, on-chain Dapps and Smart Contract systems, development and testing tools, optimizations, and other ideas that are important for the Cere Network and the Decentralized Data Cloud ecosystem.
 
-We're thrilled that you're interested in applying for a grant with Cere. We are looking forward to your reviewing your application!
+The following are a non-exclusive set of areas where Cere Network and the broader Contributor community feels are in need of active developer focus.
 
 ## Runtime Modules/Chains
 
@@ -104,59 +104,3 @@ We're thrilled that you're interested in applying for a grant with Cere. We are 
 ## Others
 
 If your idea is important for the Cere Network and the Decentralized Data Cloud ecosystem, but it is not currently in this stack, please feel free to write to [community@cere.io](mailto:community@cere.io) with your proposals.
-
-# Cere Stack
-
-Cere Grants Program is technology-oriented, currently it **mainly targets projects of protocol layer, and applications that serve wide range of users**. Please feel free to make edits and additions via Pull Requests. We apologize if we missed your project!
-
-## User Based Applications
-
-To develop more applications & scenarios for Cere.
-
-| Components | Existing Projects | Potentially Interesting Projects |
-| --- | --- | --- |
-| TBD |  |  |
-|  |  |  |
-
-## Showcases and Scenarios
-
-### Decentralized Web Hosting
-
-- TBD
-
-### Off-Chain Data Storage
-
-- TBD
-
-### Accelerated Content Delivery
-
-- TBD
-
-## Blockchain Based Applications
-
-| Components | Existing Projects |
-| --- | --- |
-| Wallet | LINK |
-| Storage and Node Explorer | LINK |
-
-## Development Tools
-
-To develop useful API and SDK available for multiple-languages.
-
-| Components | Existing Projects |
-| --- | --- |
-| Language SDK | LINK |
-| Documentation | LINK |
-
-## Optimizations
-
-To optimize storage read, write strategies.
-
-| Components | Existing Projects |
-| --- | --- |
-| Storage Management | TBD |
-| Disk Management | TBD |
-
-## Others
-
-If your idea is important for the Cere Network and the Decentralized Data Cloud ecosystem, but it is not currently in this stack, please feel free to write to community@cere.io with your proposals.

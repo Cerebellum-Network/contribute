@@ -4,7 +4,7 @@ Permalink: (Documentation/terms-and-conditions.md)[https://github.com/Cerebellum
 
 ---
 
-By participating you acknowledge and accept the terms and conditions of the Cere Foundation for the grant application (the "Terms and Conditions").
+By participating you acknowledge and accept the terms and conditions of the Cere DAO for the grant application (the "Terms and Conditions").
 
 ---
 
