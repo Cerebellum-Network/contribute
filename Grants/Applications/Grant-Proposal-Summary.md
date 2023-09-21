@@ -8,7 +8,7 @@
 Drafting
 
 ## Grant Proposal
-Provide funding to …. (<2 sentences)
+Provide funding to …. (<5 sentences)
 
 ## Abstract
 [< 250 words] with [references] linked in REFERENCES below.
@@ -23,9 +23,6 @@ To provide ... The following tasks remain:
 
 ## Team
 - NAME 1 (ROLE @ ORG): THIRD-PERSON BIO
-
-## Preferred method of funds delivery
-- USDC on Polygon address: 0x00000
 
 ## Link to Logo image 1:1 (in github)
 - ...
