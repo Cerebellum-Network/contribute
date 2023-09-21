@@ -12,15 +12,6 @@ The following are a non-exclusive set of areas where Cere Network and the broade
 
 - Building/extending Cere Network (Substrate) pallets
 
-### Requirements
-
-- List the publicly exposed methods
-- For each method, specify (to the best of present knowledge):
-    - Method signature (incl. parameters with their types, return type)
-    - Short description (code template)
-- Runtime Storage defined by your module
-- [Use case diagram](https://www.wikiwand.com/en/Use_case_diagram) with e.g. UML or SysML (or similar tool demonstrating how external users/system components interact with one another)
-
 ## Development Tools
 
 ### Applies to
@@ -29,14 +20,6 @@ The following are a non-exclusive set of areas where Cere Network and the broade
 - CLI tools
 - IDE / IDE plugin
 
-### Requirements
-
-- State what programming language you'll use
-- Describe the commands that you want to make available to the users:
-    - Name
-    - Parameters
-    - Result (value returned / file created or modified / application started etc.)
-
 ## UI Development
 
 ### Applies to
@@ -44,26 +27,11 @@ The following are a non-exclusive set of areas where Cere Network and the broade
 - Building a web application with front-end components
 - Developing a mobile app
 
-### Requirements
-
-- Provide mockups and/or wireframes (e.g. Figma)
-- List frameworks & tools for development & testing (e.g. React Native, Angular)
-
 ## Backend Development
 
 ### Applies to
 
 - Building a service/mobile app/webapp that relies on a back-end component
-
-### Requirements
-
-- State what language & framework you'll use (e.g. python with Django, Rust with Rocket)
-- Define your database requirements and which system you'll use
-- Choose how & where will your backend be hosted (cloud provider, IPFS, localhost?)
-- Consider scaling & how you plan to handle it
-- Consider CI/CD
-- If you are (planning on) hosting the backend yourself, consider adding a [security.txt](https://securitytxt.org/) file so people can get in touch with you regarding (potential) security issues
-- Provide a link to your Github repository if you already have the structure in place
 
 ## Cryptography
 
@@ -72,29 +40,12 @@ The following are a non-exclusive set of areas where Cere Network and the broade
 - New crypto library
 - Extending existing library's functionalities
 
-### Requirements
-
-- Specify what programming language you'll use
-- Provide any publications/papers you will base your work on
-- Research other crypto libraries providing similar functionalities. State whether/how you plan to use their work. If they don't suit your needs, provide a detailed explanation why and what's missing
-- List any existing crypto libraries that you will use as reference implementation (e.g. in a different language)
-
 ## Research
 
 ### Applies to
 
 - Research projects related to decentralized storage and content delivery optimizations
 - New Utility and Product Use-cases
-
-### Requirements
-
-- Specify the problem(s) that you want to investigate, and why these are important.
-- Declare the research questions/hypothesis.
-- State the methodology that will be applied.
-- Explain how the data will be collected and the analysis procedures.
-- Outline the expected results and how they would be double-checked by the grants team (reproducibility of the data analysis).
-- Research for relevant related work or declare how the literature review will be conducted.
-- Research and declare the intended venue for results publication and the timeline for publication.
 
 ## Documentation
 
