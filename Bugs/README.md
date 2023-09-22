@@ -14,7 +14,7 @@ With Cere Network and the DDC being such a complex system, plus the fact there a
 That’s it! A member of the the Cere Community team will reach out about your experience completing this mission and clarify any final questions regarding your registration and share additional details about getting started onboarding to Cere Network.
 
 ## Bounty Payouts
-At this time, all security issues reported will be negotiated based on trending market rates, and will be determined based on the final severity rating provided by our partner and third-party auditor Halborn.
+At this time, all security issues reported will be negotiated based on trending market rates, and payout prices will be determined based on the final severity rating provided by our partner and third-party auditor Halborn.
 
 ## In Scope
 These vulnerabilities often require a deep understanding of both traditional web security and the unique aspects of blockchain technology. Each of these topics has its own set of challenges and requires specialized knowledge to tackle effectively.
