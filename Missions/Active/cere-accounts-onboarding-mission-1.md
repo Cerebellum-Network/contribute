@@ -16,7 +16,7 @@ Successfully complete this mission for a chance to earn 500 CERE Token.
 
 
 ## Step 2: Complete the Accounts Onboarding Quiz
-- Complete the following simple [Accounts Onboarding Quiz](https://noteforms.com/forms/contributor-onboarding-cere-accounts-c9jobo) (3m) to earn ***your first 1000 $CERE Tokens!***
+- Complete the following simple [Accounts Onboarding Quiz](https://noteforms.com/forms/contributor-onboarding-cere-accounts-c9jobo) (3m) to earn ***your first $CERE Tokens!***
 
 That’s it! 
 
