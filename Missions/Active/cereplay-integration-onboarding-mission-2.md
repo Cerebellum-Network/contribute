@@ -1,12 +1,6 @@
 ## Mission Objective
 Game Developers! Learn how to host your games instantly without needing to run your own servers and add new web3 features to your games like decentralized Tournaments and on-chain rewards. By the end of this exercise, you will have completed all the steps required to this and more.
 
-<aside>
-📌 *Cere Contributor’s only:* 
-[Sign-up here](https://noteforms.com/forms/contributor-sign-up)
-
-</aside>
-
 ## Reward
 Successfully complete this mission for a chance to earn 1,000 CERE Token on Mainnet.
 
@@ -53,7 +47,8 @@ Games must meet the following requirements:
 
 ## What’s next?
 There are many paths forward from here. Which one you take, depends entirely on you:
-- With as little as 1 $CERE token, earn 20%+ APR staking. Learn more in our [***Staking Quickstart Guide***](https://www.notion.so/Cere-Staking-Quickstart-Guide-8df5abe1f83a4f95bda53c49da245407?pvs=21).
+- With as little as 1 CERE token, earn 20%+ APR staking. 
+- Learn more in our [Staking Quickstart Guide](https://www.notion.so/Cere-Staking-Quickstart-Guide-8df5abe1f83a4f95bda53c49da245407?pvs=21).
 - Learn more about the [Contributor Program](https://www.notion.so/Contributor-Portal-21b1eab42f304bdc9347ffd5882b0ee6?pvs=21).
 
 🛟 Question? Join us in on [Contributor Discord](https://cere.network/discord)!
