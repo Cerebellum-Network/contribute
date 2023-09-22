@@ -2,9 +2,7 @@
 Developers! Start building and deploying apps on top of the Cere Network Blockchain and new Decentralized Data Cloud storage protocol! Complete these onboarding steps to set-up your Cere Account and earn your first 500 CERE Token on Mainnet.
 
 <aside>
-📌 *Cere Contributor’s only:* 
-[Sign-up here](https://noteforms.com/forms/contributor-sign-up)
-
+📌 *Cere Contributor’s only:* [Sign-up here](https://noteforms.com/forms/contributor-sign-up)
 </aside>
 
 ## Reward

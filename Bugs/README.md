@@ -14,18 +14,7 @@ With Cere Network and the DDC being such a complex system, plus the fact there a
 That’s it! A member of the the Cere Community team will reach out about your experience completing this mission and clarify any final questions regarding your registration and share additional details about getting started onboarding to Cere Network.
 
 ## Bounty Payouts
-Cere Bounty payouts for issues reported are as follows:
-💡 Legend - Severity Levels & Payouts
-- Critical   |  $5,000 - $10,000+
-- High       |  $1,000 - $5,000
-- Medium     |  $500 - $1,000
-- Low & Info |  $50 - $500
-🔏 All reports will be assessed by independent security auditors for final severity rating.
-
-## Payment
-- The CERE/USD conversion rate used for payments is the average market price for the month in which the bug was submitted.
-- The reference for this price is calculated based on the Closing Price given by Coingecko.com given [here](https://www.coingecko.com/en/coins/cere-network).
-- The final severity and payout recommendation of all valid issues reported are decided by the Cere Bug Bounty Team, with consultation with Halborn security team and other third-party security consultants, if necessary. We will make this as transparent of a process as possible to ensure all parties are satisfied and agree with the outcome.
+At this time, all security issues reported will be negotiated based on trending market rates, and will be determined based on the final severity rating provided by our partner and third-party auditor Halborn.
 
 ## In Scope
 These vulnerabilities often require a deep understanding of both traditional web security and the unique aspects of blockchain technology. Each of these topics has its own set of challenges and requires specialized knowledge to tackle effectively.
