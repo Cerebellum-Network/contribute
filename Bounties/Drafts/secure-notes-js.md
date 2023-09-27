@@ -51,7 +51,17 @@ By integrating your note sharing application with Cere's **[DDC-SDK-JS](https://
 ## About the Team
 - Your Name (ROLE @ ORG): Bio (in third-person), with links to socials
 
+## Additional Information
+
+*Add any additional information about your solution to this bounty that hasn't already been included.*
+
+
+
+
+
+
 --- 
+
 ## How to Apply
 Interested? Apply following these steps:
 1. Clone [this repository](https://github.com/Cerebellum-Network/contribute).
