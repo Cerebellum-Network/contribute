@@ -43,7 +43,7 @@ By integrating your note sharing application with Cere's **[DDC-SDK-JS](https://
 
 
 ## Team
-- NAME 1 (ROLE @ ORG): THIRD-PERSON BIO
+- Your Name (ROLE @ ORG): Bio (in third-person), with links to socials
 
 --- 
 ## How to Apply
