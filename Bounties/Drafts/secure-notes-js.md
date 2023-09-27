@@ -56,9 +56,9 @@ Interested? Apply following these steps:
 6. [Submit a PR](https://github.com/Cerebellum-Network/contribute/pulls) against Cerebellum's upstream main branch.
 
 ## Approval Workflow
-1. Initial Review: The Cere Contributor team will try to provide initial feedback within 3 business days.
-2. Feedback Loop: Necessary revisions will be communicated until winners are chosen.
-3. Approval and Payout: Upon approval and KYC, the bounty will be distributed to all winners in one batch.
+1. Initial Review: The Cere Contributor team will provide initial feedback within 3 business days.
+2. Feedback Loop: Necessary revisions will be communicated until a winner is chosen.
+3. Approval and Payout: Upon approval and KYC, the bounty will be distributed to the winner, per negotiated terms.
 
 ## Terms and Conditions
 1. Eligibility: Open to individuals 18 years and older.
