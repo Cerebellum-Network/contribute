@@ -1,48 +1,41 @@
-# Deploy an open source Card Game on CerePlay!
+# Publish a Validator Node Video Guide!
 
 ## Objective
-Create the best open-source card game modification you can in JS using the Cere Games SDK for a chance to earn $250!
+We are looking for an Ops Guild contributor to create a high-quality screencast tutorial that demonstrates how to deploy a Validator Node on the Cere Network. This tutorial will serve as a Quickstart Guide for new and existing members of our community who are interested in becoming a validator. Text guide should be included too.
 
 ## Reward
-A $250 Devel bounty is up for grabs!
+A $250 Tester bounty is up for grabs to the first to submit an acceptabled solution.  Other's will recieve additional bonuses and SWAG.
 
-## Abstract
-Build or otherwise modify the best open source JS based [card game](https://en.wikipedia.org/wiki/Standard_52-card_deck) (❌🃏) in 6 weeks, integrating with the full spectrum of features provided by the new CerePlay [Game JS SDK](https://www.notion.so/69865967cd63430892a54167df9b7bdf?pvs=21). 
-
-Developers can mod simple games with Cere tools for prizes and token. 
-
-A library you might consider re-using as a basis for your project is, [cards.js](https://github.com/einaregilsson/cards.js), which has been used to create the following games, for example:
-- [Hearts](https://cardgames.io/hearts/)
-- [Go Fish](https://cardgames.io/gofish/)
-- [Solitaire](https://cardgames.io/solitaire/)
-- [Idiot](https://cardgames.io/idiot/)
-
-[Re-write the above with the specifics of your proposed solution details]
+This is a bounty designed for Cere Testers, but available to anyone. 
+The most accurately described article brief and heading outline will be selected to complete the final article and receive the bounty.
 
 ## Deliverables
-### **Game Modes**
-- **Single Player**: Your game should offer a complete and enjoyable single-player experience.
-- **Multiplayer**: While not mandatory, adding multiplayer functionality will be considered a bonus.
+Video content
 
-### **SDK Integration**
-Your game must seamlessly integrate the following features from the Cere SDK:
-- **Leaderboard**: To rank players based on their scores.
-- **Interstitial Ads**: For in-game advertising.
-- **Wallet Integration**: To handle in-game transactions.
-- **NFT Registry**: To manage in-game assets like cards or collectibles. (COMING SOON)
-- **Additional Features**: You're encouraged to integrate more features to make your game stand out.
+- Content: Step-by-step guide on deploying a Validator Node on the Cere Network
+- **Format**: Screencast video tutorial
+    - Desktop recording
+    - Speaker “webcam”
+    - With mouse click / finger tap animations.
+- **Duration**: 10-15 minutes
+- **Language**: English
 
-## **Rewards and Bonuses**
-- The first developer to submit an accepted solution will receive the specified award.
-- **Bonuses**: Extra rewards for the most games played and most high score shares.
-
-Participate now to win exciting prizes and gain community recognition!
-
-## Project Slug & Git Branch
-cereplay-gamedev-tournament-1-cardgames
+**Requirements**
+- The video must be recorded in 1080p resolution; Aspect Ratio: 16:9
+- Audio must be clear and of high quality.
+- The video must be saved in MP4 format.
+- The tutorial should cover the following topics:
+    - Introduction to Validator Nodes and their importance in the Cere Network.
+    - Prerequisites for deploying a Validator Node.
+    - Step-by-step guide on how to deploy a Validator Node.
+    - Common troubleshooting tips.
+- The video should be uploaded to a platform that is easily accessible, such as YouTube.
 
 ## Team
 - NAME 1 (ROLE @ ORG): THIRD-PERSON BIO
+
+## Project Slug & Git Branch
+validator-node-vide-guide-1
 
 --- 
 ## How to Apply
@@ -50,14 +43,14 @@ Interested? Apply following these steps:
 1. Clone [this repository](https://github.com/Cerebellum-Network/contribute).
 2. Create a new branch.
 3. Fill in the remaining details of *this* prepared bounty (ie, the file you are reading now).
-4. Move to `../Applications` and commit your changes.
+4. Move to `../Active` folder and commit your changes.
 5. Push to your cloned repository in Github.
 6. [Submit a PR](https://github.com/Cerebellum-Network/contribute/pulls) against Cerebellum's upstream main branch.
 
 ## Approval Workflow
 1. Initial Review: The Cere Contributor team will try to provide initial feedback within 3 business days.
 2. Feedback Loop: Necessary revisions will be communicated until winners are chosen.
-3. Approval and Payout: Upon approval and KYC, the bounty will be distributed to the winner.
+3. Approval and Payout: Upon approval and KYC, the $250 bounty will be distributed to all winners in one batch.
 
 ## **How to Gather Support**
 

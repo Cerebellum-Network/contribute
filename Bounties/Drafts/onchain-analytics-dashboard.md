@@ -101,7 +101,7 @@ Interested? Apply following these steps:
 1. Clone [this repository](https://github.com/Cerebellum-Network/contribute).
 2. Create a new branch, 
 3. Copy, rename, fill in [this template](../Templates/Bounty Proposal.md).
-4. Move to `../Appliations`.
+4. Move to `../Active` folder and commit your changes.
 5. Push to your cloned repository in Github.
 6. [Submit a PR](https://github.com/Cerebellum-Network/contribute/pulls) against Cerebellum's upstream main branch.
 

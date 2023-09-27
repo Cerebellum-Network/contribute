@@ -51,7 +51,7 @@ Interested? Apply following these steps:
 1. Clone [this repository](https://github.com/Cerebellum-Network/contribute).
 2. Create a new branch.
 3. Fill in the remaining details of *this* prepared bounty (ie, the file you are reading now).
-4. Move to `../Applications` and commit your changes.
+4. Move to `../Active` folder and commit your changes.
 5. Push to your cloned repository in Github.
 6. [Submit a PR](https://github.com/Cerebellum-Network/contribute/pulls) against Cerebellum's upstream main branch.
 

@@ -1,48 +1,26 @@
-# Deploy an open source fighter game on CerePlay!
-💡 What is a fighter game? [Check wikipedia](https://en.wikipedia.org/wiki/Fighting_game)!
+# Deploy !ink flipper smart contract to Cere
 
 ## Objective
-Create the best open-source fighter game modification you can in JS using the Cere Games SDK for a chance to earn $250!
+We want your !ink-based smart contracts on Cere Network to interact with Cere's new DDC v2 ddc-bucket-contract smart contract. $250 cash bounty!
 
 ## Reward
-A $250 Devel bounty is up for grabs!
+A $250 Devels bounty is up for grabs!
 
 ## Background
-Build or otherwise modify the best open source JS based [figher game](https://github.com/search?q=fighting%20game%20js&type=repositories), integrating with the full spectrum of features provided by the new CerePlay [Game JS SDK](https://www.notion.so/69865967cd63430892a54167df9b7bdf?pvs=21), and you can win $250! 
-
-🥽 Lacking inspiration? Just [search Github](https://github.com/search?q=fighting%20game%20js&type=repositories). [DYOR](https://www.urbandictionary.com/define.php?term=DYOR).
-- https://github.com/mgechev/mk.js
-- https://github.com/Adrizen/Fighting-Game-in-JS
-- https://github.com/cseremetis/Snowball_Fight
-
-Extend one of these with [Cere Gaming SDK](https://github.com/Cerebellum-Network/cere-ddc-sdk-js) and deploy on [CerePlay](https://www.notion.so/478ce52cd1414870b9b6792a1b1909ca?pvs=21).
-
-[Re-write the above with the specifics of your proposed solution details]
+At Cere, having access to reporting on key on-chain data is crucial for successful operation of the network. At this time, Cere Network community does not have any publicly available community managed Dashboards for tracking insights into the Cere Network on-chain activities across networks. 
 
 ## Deliverables
-### **Game Modes**
-- **Single Player**: Your game should offer a complete and enjoyable single-player experience.
-- **Multiplayer**: While not mandatory, adding multiplayer functionality will be considered a bonus.
-
-### **SDK Integration**
-Your game must seamlessly integrate the following features from the Cere SDK:
-- **Leaderboard**: To rank players based on their scores.
-- **Interstitial Ads**: For in-game advertising.
-- **Wallet Integration**: To handle in-game transactions.
-- **NFT Registry**: To manage in-game assets like cards or collectibles. (COMING SOON)
-- **Additional Features**: You're encouraged to integrate more features to make your game stand out.
-
-## **Rewards and Bonuses**
-- The first developer to submit an accepted solution will receive the specified award.
-- **Bonuses**: Extra rewards for the most games played and most high score shares.
-
-Participate now to win exciting prizes and gain community recognition!
+1. Implement and deploy the iconical [flipper contract](https://paritytech.github.io/ink/#hello-world--the-flipper) using !ink onto the Cere Network Blockchain.
+  - must be deployed on the [Cere Testnet](https://www.notion.so/Blockchain-611cb8bb2bca45009b4f03570b1d0dc8?pvs=21).
+  - must be built using **[!ink](https://use.ink/how-it-works/)**.
+  - must interact with Cere's **[ddc-bucket-contract](https://github.com/Cerebellum-Network/ddc-bucket-contract)** to store state.
+2. Store state on DDC using Cere DDC SDK.
 
 ## Project Slug & Git Branch
-cereplay-gamedev-tournament-1-fighter
+ink-flipper-sc-on-cere-1
 
 ## Team
-- NAME 1 (ROLE @ ORG): THIRD-PERSON BIO
+- NAME 1 (ROLE @ ORG): PUBLIC BIO CONTACTS
 
 --- 
 ## How to Apply
@@ -50,7 +28,7 @@ Interested? Apply following these steps:
 1. Clone [this repository](https://github.com/Cerebellum-Network/contribute).
 2. Create a new branch.
 3. Fill in the remaining details of *this* prepared bounty (ie, the file you are reading now).
-4. Move to `../Applications` and commit your changes.
+4. Move to `../Active` folder and commit your changes.
 5. Push to your cloned repository in Github.
 6. [Submit a PR](https://github.com/Cerebellum-Network/contribute/pulls) against Cerebellum's upstream main branch.
 
@@ -86,3 +64,5 @@ By leveraging these platforms, you can not only gather support but also enrich y
 
 ---
 🛟 Questions? Ask in our [Contributor Discord](https://cere.network/discord) or write us at [community@cere.io](mailto:community@cere.io).
+
+

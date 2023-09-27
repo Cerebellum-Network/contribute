@@ -1,26 +1,33 @@
-# Deploy !ink flipper smart contract to Cere
+# Create a Comprehensive CERE Testnet Token Swap Guide
 
 ## Objective
-We want your !ink-based smart contracts on Cere Network to interact with Cere's new DDC v2 ddc-bucket-contract smart contract. $250 cash bounty!
+In this task, we would like to ask Cere Angels to write a new derivative article targeted at a more general audience, with instructions on how to convert and swap Cere Testnet Tokens in general. Aka, write an  informative and user-friendly article about converting and swapping Cere Testnet Tokens and ERC-20 CERE tokens.
 
 ## Reward
-A $250 Devels bounty is up for grabs!
+A $250 bounty is up for grabs!
 
 ## Background
-At Cere, having access to reporting on key on-chain data is crucial for successful operation of the network. At this time, Cere Network community does not have any publicly available community managed Dashboards for tracking insights into the Cere Network on-chain activities across networks. 
+Navigating the world of token conversion and swapping can be daunting, especially for those new to the crypto space. This article will serve as a comprehensive guide, making it easier for everyone to engage with the Cere ecosystem.
+
+The aim of this article is to create a derivative article that simplifies the process of converting and swapping Cere Testnet Tokens. The article should be targeted at a general audience and offer step-by-step instructions on various methods for token conversion and swapping. Video Demo included (minimum: audio walk through with desktop screen share; aspect ratio 16:9.
+
+[< 1000 words] Additional background with [references] linked in REFERENCES below.
 
 ## Deliverables
-1. Implement and deploy the iconical [flipper contract](https://paritytech.github.io/ink/#hello-world--the-flipper) using !ink onto the Cere Network Blockchain.
-  - must be deployed on the [Cere Testnet](https://www.notion.so/Blockchain-611cb8bb2bca45009b4f03570b1d0dc8?pvs=21).
-  - must be built using **[!ink](https://use.ink/how-it-works/)**.
-  - must interact with Cere's **[ddc-bucket-contract](https://github.com/Cerebellum-Network/ddc-bucket-contract)** to store state.
-2. Store state on DDC using Cere DDC SDK.
+Your article should cover real-world examples (we will supply the CERE Tokens):
+
+- **Faucets**: How to use Faucets on Cere, Ethereum and Polygon to get tokens on testnet?
+- **Token Bridging**: How to bridge CERE tokens from Mainnet to Ethereum and Polygon.
+- **DEX Swapping**: Instructions for swapping Cere ERC20 tokens on at least two DEXes (Polygon, Ethereum).
+- **CEX Swapping**: Instructions for swapping Cere ERC20 tokens on at least one CEX.
+- **Polkadot.js Wallet Guide**: How to work with CERE Testnet Tokens using the Polkadot.js wallet.
+- **Cere Wallet Wallet Guide**: How to work with CERE Testnet Tokens using the Cere Wallet (https://wallet.cere.network).
 
 ## Project Slug & Git Branch
-ink-flipper-sc-on-cere-1
+cere-testnet-token-swap-guide
 
 ## Team
-- NAME 1 (ROLE @ ORG): PUBLIC BIO CONTACTS
+- NAME 1 (ROLE @ ORG): THIRD-PERSON BIO
 
 --- 
 ## How to Apply
@@ -28,14 +35,14 @@ Interested? Apply following these steps:
 1. Clone [this repository](https://github.com/Cerebellum-Network/contribute).
 2. Create a new branch.
 3. Fill in the remaining details of *this* prepared bounty (ie, the file you are reading now).
-4. Move to `../Applications` and commit your changes.
+4. Move to `../Active` folder and commit your changes.
 5. Push to your cloned repository in Github.
 6. [Submit a PR](https://github.com/Cerebellum-Network/contribute/pulls) against Cerebellum's upstream main branch.
 
 ## Approval Workflow
 1. Initial Review: The Cere Contributor team will try to provide initial feedback within 3 business days.
 2. Feedback Loop: Necessary revisions will be communicated until winners are chosen.
-3. Approval and Payout: Upon approval and KYC, the bounty will be distributed to the winner.
+3. Approval and Payout: Upon approval and KYC, the bounty will be distributed to all winners in one batch.
 
 ## **How to Gather Support**
 
@@ -46,9 +53,8 @@ Interested? Apply following these steps:
 
 ### Cere Contributor Discord
 1. **Introduce Your Idea**: Use the **[Cere Contributor Discord](https://cere.network/discord)** to introduce your article idea in the relevant channels. This could be a great way to get initial feedback and even some early supporters.
-2. **Report issues**: you find in the #help channel, but also in Github to repository developer's are made aware.
-3. **Weekly Updates**: Keep the Discord community updated on your progress. Share milestones or any interesting findings you come across while writing the article.
-4. **Final Sharing**: Once your article is published, share the link in the Discord to let everyone read your contribution.
+2. **Weekly Updates**: Keep the Discord community updated on your progress. Share milestones or any interesting findings you come across while writing the article.
+3. **Final Sharing**: Once your article is published, share the link in the Discord to let everyone read your contribution.
 
 By leveraging these platforms, you can not only gather support but also enrich your article with community insights. Participate now to make a meaningful contribution to the Cere community!
 
@@ -64,5 +70,3 @@ By leveraging these platforms, you can not only gather support but also enrich y
 
 ---
 🛟 Questions? Ask in our [Contributor Discord](https://cere.network/discord) or write us at [community@cere.io](mailto:community@cere.io).
-
-
