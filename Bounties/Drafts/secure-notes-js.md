@@ -4,8 +4,10 @@ Demonstrate the power and security of Cere DDC cloud storage platform by launchi
 ## Background
 Developers and the general public often need to share code, notes and other text-only snippets. There are many applications on the web that enable this, including [Github Gists](https://gist.github.com), [Pastebin](https://pastebin.com/) and [Privnote](https://privnote.com/). At their core, each are simple, yet powerful and widely used services for sending notes to anyone on the web. 
 
-For inspiration or a base from which to start building your note sharing application, we believe these repo's and tutorial resources might be helpful: - Pastbin Clones: [@JoeBiellik/paste](https://github.com/JoeBiellik/paste), [@mstallmo/paste.rs](https://github.com/mstallmo/paste.rs)
-- Privnote Clones: [How to Build a Privnote Clone](https://remarkablemark.org/blog/2022/04/23/how-to-build-a-privnote-clone/), [@remarkablemark/Replit-Privnote](https://github.com/remarkablemark/Replit-Privnote)
+For inspiration or a base from which to start building your note sharing application, we believe these repo's and tutorial resources might be helpful: 
+
+- Pastebin: [@JoeBiellik/paste](https://github.com/JoeBiellik/paste), [@mstallmo/paste.rs](https://github.com/mstallmo/paste.rs)
+- Privnote: [How to Build a Privnote Clone](https://remarkablemark.org/blog/2022/04/23/how-to-build-a-privnote-clone/), [@remarkablemark/Replit-Privnote](https://github.com/remarkablemark/Replit-Privnote)
 
 By integrating your note sharing application with Cere's **[DDC-SDK-JS](https://github.com/CereNetwork/ddc-sdk-js)**, we aim to bring the benefits of decentralized cloud storage to this secure note-sharing platform. The Cere DDC SDK is a software development kit for interacting with Cere's Decentralized Data Cloud that empowers developers to build secure applications powered by the Decentralized Data Cloud. Some of the features you might use to complete this project are:
 
