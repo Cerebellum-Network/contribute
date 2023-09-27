@@ -1,16 +1,10 @@
 # Publish a Validator Node Video Guide!
 
-## Project Slug & Git Branch
-validator-node-vide-guide-1
-
-## Status
-Looking for Help
-
 ## Objective
 We are looking for an Ops Guild contributor to create a high-quality screencast tutorial that demonstrates how to deploy a Validator Node on the Cere Network. This tutorial will serve as a Quickstart Guide for new and existing members of our community who are interested in becoming a validator. Text guide should be included too.
 
 ## Reward
-A $500 Tester bounty is up for grabs to the first to submit an acceptabled solution.  Other's will recieve additional bonuses and SWAG.
+A $250 Tester bounty is up for grabs to the first to submit an acceptabled solution.  Other's will recieve additional bonuses and SWAG.
 
 This is a bounty designed for Cere Testers, but available to anyone. 
 The most accurately described article brief and heading outline will be selected to complete the final article and receive the bounty.
@@ -40,23 +34,23 @@ Video content
 ## Team
 - NAME 1 (ROLE @ ORG): THIRD-PERSON BIO
 
-## Link to Logo image 1:1 (in github)
-- ...
+## Project Slug & Git Branch
+validator-node-vide-guide-1
 
 --- 
 ## How to Apply
 Interested? Apply following these steps:
 1. Clone [this repository](https://github.com/Cerebellum-Network/contribute).
-2. Create a new branch, 
-3. Copy, rename, fill in [this template](../Templates/Bounty Proposal.md).
-4. Move to `../Appliations`.
+2. Create a new branch.
+3. Fill in the remaining details of *this* prepared bounty (ie, the file you are reading now).
+4. Move to `../Applications` and commit your changes.
 5. Push to your cloned repository in Github.
 6. [Submit a PR](https://github.com/Cerebellum-Network/contribute/pulls) against Cerebellum's upstream main branch.
 
 ## Approval Workflow
 1. Initial Review: The Cere Contributor team will try to provide initial feedback within 3 business days.
 2. Feedback Loop: Necessary revisions will be communicated until winners are chosen.
-3. Approval and Payout: Upon approval and KYC, the $500 bounty will be distributed to all winners in one batch.
+3. Approval and Payout: Upon approval and KYC, the $250 bounty will be distributed to all winners in one batch.
 
 ## **How to Gather Support**
 

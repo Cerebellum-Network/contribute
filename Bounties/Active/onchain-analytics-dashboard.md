@@ -1,8 +1,5 @@
 # Deploy On-Chain Analytics Dashboard
 
-## Project Slug & Git Branch
-on-chain-analytics-dashboard-1
-
 ## Status
 Looking for Help
 
@@ -10,15 +7,10 @@ Looking for Help
 This Bounty is tailored for those passionate about data and on-chain analytics to help the Cere community explore, analyze, and derive insights from on-chain datasets using flipsidecrypto.xyz and dune.com.
 
 ## Reward
-A $500 Ops bounty is up for grabs!
-
-This is a bounty designed for Cere Ops, but available to anyone. 
-The most accurately described article brief and heading outline will be selected to complete the final article and receive the bounty.
+A $250 bounty is up for grabs!
 
 ## Abstract
 Cere invites you to create and share new on-chain analytics dashboards and reports using flipsidecrypto.xyz or dune.com with the growing Cere Contributor community.
-
-[< 250 words] with [references] linked in REFERENCES below.
 
 ## Background
 At Cere, having access to reporting on key on-chain data is crucial for successful operation of the network. At this time, Cere Network community does not have any publicly available community managed Dashboards for tracking insights into the Cere Network on-chain activities across networks. 
@@ -97,11 +89,11 @@ Using the new charts and queries created above, prepare a new report that highli
 
 *That’s it! A member of the the Cere Community team will reach out about your experience completing this mission and clarify any final questions regarding the bounty reward distribution, etc within 24-72h.*
 
+## Project Slug & Git Branch
+on-chain-analytics-dashboard-1
+
 ## Team
 - NAME 1 (ROLE @ ORG): THIRD-PERSON BIO
-
-## Link to Logo image 1:1 (in github)
-- ...
 
 --- 
 ## How to Apply
@@ -116,7 +108,7 @@ Interested? Apply following these steps:
 ## Approval Workflow
 1. Initial Review: The Cere Contributor team will try to provide initial feedback within 3 business days.
 2. Feedback Loop: Necessary revisions will be communicated until winners are chosen.
-3. Approval and Payout: Upon approval and KYC, the $500 bounty will be distributed to all winners in one batch.
+3. Approval and Payout: Upon approval and KYC, the $250 bounty will be distributed to all winners in one batch.
 
 ## **How to Gather Support**
 

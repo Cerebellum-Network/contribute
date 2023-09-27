@@ -1,21 +1,10 @@
 # Create a Comprehensive CERE Testnet Token Swap Guide
 
-## Project Slug & Git Branch
-cere-testnet-token-swap-guide
-
-## Status
-Looking for Help
-
 ## Objective
 In this task, we would like to ask Cere Angels to write a new derivative article targeted at a more general audience, with instructions on how to convert and swap Cere Testnet Tokens in general. Aka, write an  informative and user-friendly article about converting and swapping Cere Testnet Tokens and ERC-20 CERE tokens.
 
 ## Reward
-A $500 Angel bounty is up for grabs!
-
-This is a bounty designed for Cere Angels, but available to anyone. The most accurately described article brief and heading outline will be selected to complete the final article and receive the bounty.
-
-## Abstract
-[< 250 words] with [references] linked in REFERENCES below.
+A $250 bounty is up for grabs!
 
 ## Background
 Navigating the world of token conversion and swapping can be daunting, especially for those new to the crypto space. This article will serve as a comprehensive guide, making it easier for everyone to engage with the Cere ecosystem.
@@ -34,30 +23,26 @@ Your article should cover real-world examples (we will supply the CERE Tokens):
 - **Polkadot.js Wallet Guide**: How to work with CERE Testnet Tokens using the Polkadot.js wallet.
 - **Cere Wallet Wallet Guide**: How to work with CERE Testnet Tokens using the Cere Wallet (https://wallet.cere.network).
 
+## Project Slug & Git Branch
+cere-testnet-token-swap-guide
+
 ## Team
 - NAME 1 (ROLE @ ORG): THIRD-PERSON BIO
-
-## Preferred method of funds delivery
-- USD/EUR Fiat or
-- USDC on Polygon address: 0x00000
-
-## Link to Logo image 1:1 (in github)
-- ...
 
 --- 
 ## How to Apply
 Interested? Apply following these steps:
 1. Clone [this repository](https://github.com/Cerebellum-Network/contribute).
-2. Create a new branch, 
-3. Copy, rename, fill in [this template](../Templates/Bounty Proposal.md).
-4. Move to `../Appliations`.
+2. Create a new branch.
+3. Fill in the remaining details of *this* prepared bounty (ie, the file you are reading now).
+4. Move to `../Applications` and commit your changes.
 5. Push to your cloned repository in Github.
 6. [Submit a PR](https://github.com/Cerebellum-Network/contribute/pulls) against Cerebellum's upstream main branch.
 
 ## Approval Workflow
 1. Initial Review: The Cere Contributor team will try to provide initial feedback within 3 business days.
 2. Feedback Loop: Necessary revisions will be communicated until winners are chosen.
-3. Approval and Payout: Upon approval and KYC, the $500 bounty will be distributed to all winners in one batch.
+3. Approval and Payout: Upon approval and KYC, the bounty will be distributed to all winners in one batch.
 
 ## **How to Gather Support**
 

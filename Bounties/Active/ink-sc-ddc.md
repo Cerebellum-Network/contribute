@@ -1,53 +1,41 @@
 # Deploy !ink flipper smart contract to Cere
 
-## Project Slug & Git Branch
-ink-flipper-sc-on-cere-1
-
-## Status
-Looking for Help
-
 ## Objective
-We want your !ink-based smart contracts on Cere Network to interact with Cere's new DDC v2 ddc-bucket-contract smart contract. $500 cash bounty!
-Objectives:
-1. Implement and deploy the iconical [flipper contract](https://paritytech.github.io/ink/#hello-world--the-flipper) using !ink onto the Cere Network Blockchain.
-2. Store state on DDC using Cere DDC SDK.
+We want your !ink-based smart contracts on Cere Network to interact with Cere's new DDC v2 ddc-bucket-contract smart contract. $250 cash bounty!
 
 ## Reward
-A $500 Devels bounty is up for grabs!
-
-This is a bounty designed for Cere Devels, but available to anyone. 
-The most accurately described article brief and heading outline will be selected to complete the final article and receive the bounty.
-
-## Deliverables
-1. The smart contract must be deployed on the [Cere Testnet](https://www.notion.so/Blockchain-611cb8bb2bca45009b4f03570b1d0dc8?pvs=21).
-2. The smart contract must be built using **[!ink](https://use.ink/how-it-works/)**.
-3. The smart contract must interact with Cere's **[ddc-bucket-contract](https://github.com/Cerebellum-Network/ddc-bucket-contract)** to store state.
-
-[< 250 words] with [references] linked in REFERENCES below.
+A $250 Devels bounty is up for grabs!
 
 ## Background
 At Cere, having access to reporting on key on-chain data is crucial for successful operation of the network. At this time, Cere Network community does not have any publicly available community managed Dashboards for tracking insights into the Cere Network on-chain activities across networks. 
 
+## Deliverables
+1. Implement and deploy the iconical [flipper contract](https://paritytech.github.io/ink/#hello-world--the-flipper) using !ink onto the Cere Network Blockchain.
+  - must be deployed on the [Cere Testnet](https://www.notion.so/Blockchain-611cb8bb2bca45009b4f03570b1d0dc8?pvs=21).
+  - must be built using **[!ink](https://use.ink/how-it-works/)**.
+  - must interact with Cere's **[ddc-bucket-contract](https://github.com/Cerebellum-Network/ddc-bucket-contract)** to store state.
+2. Store state on DDC using Cere DDC SDK.
+
+## Project Slug & Git Branch
+ink-flipper-sc-on-cere-1
+
 ## Team
 - NAME 1 (ROLE @ ORG): PUBLIC BIO CONTACTS
-
-## Link to Logo image 1:1 (in github)
-- ...
 
 --- 
 ## How to Apply
 Interested? Apply following these steps:
 1. Clone [this repository](https://github.com/Cerebellum-Network/contribute).
-2. Create a new branch, 
-3. Copy, rename, fill in [this template](../Templates/Bounty Proposal.md).
-4. Move to `../Appliations`.
+2. Create a new branch.
+3. Fill in the remaining details of *this* prepared bounty (ie, the file you are reading now).
+4. Move to `../Applications` and commit your changes.
 5. Push to your cloned repository in Github.
 6. [Submit a PR](https://github.com/Cerebellum-Network/contribute/pulls) against Cerebellum's upstream main branch.
 
 ## Approval Workflow
 1. Initial Review: The Cere Contributor team will try to provide initial feedback within 3 business days.
 2. Feedback Loop: Necessary revisions will be communicated until winners are chosen.
-3. Approval and Payout: Upon approval and KYC, the $500 bounty will be distributed to all winners in one batch.
+3. Approval and Payout: Upon approval and KYC, the bounty will be distributed to the winner.
 
 ## **How to Gather Support**
 

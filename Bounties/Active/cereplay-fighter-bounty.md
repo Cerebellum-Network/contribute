@@ -1,26 +1,14 @@
-# Deploy fun fighter games on CerePlay!
-💡 What is a figher game? [Check wikipedia](https://en.wikipedia.org/wiki/Fighting_game)!
-
-## Project Slug & Git Branch
-cereplay-gamedev-tournament-1-fighter
-
-## Status
-Looking for Help
+# Deploy an open source fighter game on CerePlay!
+💡 What is a fighter game? [Check wikipedia](https://en.wikipedia.org/wiki/Fighting_game)!
 
 ## Objective
-Create the best open-source fighter game modification you can in JS using the Cere Games SDK for a chance to earn $500!
+Create the best open-source fighter game modification you can in JS using the Cere Games SDK for a chance to earn $250!
 
 ## Reward
-A $500 Devel bounty is up for grabs!
-
-This is a bounty designed for Cere Devels, but available to anyone. 
-The most accurately described article brief and heading outline will be selected to complete the final article and receive the bounty.
-
-## Abstract
-[< 250 words] with [references] linked in REFERENCES below.
+A $250 Devel bounty is up for grabs!
 
 ## Background
-Build or otherwise modify the best open source JS based [figher game](https://github.com/search?q=fighting%20game%20js&type=repositories), integrating with the full spectrum of features provided by the new CerePlay [Game JS SDK](https://www.notion.so/69865967cd63430892a54167df9b7bdf?pvs=21), and you can win $500! 
+Build or otherwise modify the best open source JS based [figher game](https://github.com/search?q=fighting%20game%20js&type=repositories), integrating with the full spectrum of features provided by the new CerePlay [Game JS SDK](https://www.notion.so/69865967cd63430892a54167df9b7bdf?pvs=21), and you can win $250! 
 
 🥽 Lacking inspiration? Just [search Github](https://github.com/search?q=fighting%20game%20js&type=repositories). [DYOR](https://www.urbandictionary.com/define.php?term=DYOR).
 - https://github.com/mgechev/mk.js
@@ -29,7 +17,7 @@ Build or otherwise modify the best open source JS based [figher game](https://gi
 
 Extend one of these with [Cere Gaming SDK](https://github.com/Cerebellum-Network/cere-ddc-sdk-js) and deploy on [CerePlay](https://www.notion.so/478ce52cd1414870b9b6792a1b1909ca?pvs=21).
 
-[< 1000 words] Additional background with [references] linked in REFERENCES below.
+[Re-write the above with the specifics of your proposed solution details]
 
 ## Deliverables
 ### **Game Modes**
@@ -45,34 +33,31 @@ Your game must seamlessly integrate the following features from the Cere SDK:
 - **Additional Features**: You're encouraged to integrate more features to make your game stand out.
 
 ## **Rewards and Bonuses**
-- The first developer to submit a working solution will receive $500 and other's will recieve additional bonuses and SWAG.
-
-### **Social Contests**
-- **Daily Tweet Booster Airdrops**: Earn daily bonuses for promoting the competition on Twitter.
-- **Weekly Bonuses**: Extra rewards for the most games played and most high score shares.
+- The first developer to submit an accepted solution will receive the specified award.
+- **Bonuses**: Extra rewards for the most games played and most high score shares.
 
 Participate now to win exciting prizes and gain community recognition!
 
+## Project Slug & Git Branch
+cereplay-gamedev-tournament-1-fighter
+
 ## Team
 - NAME 1 (ROLE @ ORG): THIRD-PERSON BIO
-
-## Link to Logo image 1:1 (in github)
-- ...
 
 --- 
 ## How to Apply
 Interested? Apply following these steps:
 1. Clone [this repository](https://github.com/Cerebellum-Network/contribute).
-2. Create a new branch, 
-3. Copy, rename, fill in [this template](../Templates/Bounty Proposal.md).
-4. Move to `../Appliations`.
+2. Create a new branch.
+3. Fill in the remaining details of *this* prepared bounty (ie, the file you are reading now).
+4. Move to `../Applications` and commit your changes.
 5. Push to your cloned repository in Github.
 6. [Submit a PR](https://github.com/Cerebellum-Network/contribute/pulls) against Cerebellum's upstream main branch.
 
 ## Approval Workflow
 1. Initial Review: The Cere Contributor team will try to provide initial feedback within 3 business days.
 2. Feedback Loop: Necessary revisions will be communicated until winners are chosen.
-3. Approval and Payout: Upon approval and KYC, the $500 bounty will be distributed to all winners in one batch.
+3. Approval and Payout: Upon approval and KYC, the bounty will be distributed to the winner.
 
 ## **How to Gather Support**
 
