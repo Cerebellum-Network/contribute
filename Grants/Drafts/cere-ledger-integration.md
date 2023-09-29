@@ -21,7 +21,8 @@ The active development community around a specific Substrate-based network can e
 
 ## Deliverables
 The scope of the project includes the development of a Cere application compatible with both Ledger Nano S and X, encompassing the following elements:
-- BOLOS application for Ledger Nano S/X (**[Feature Details](https://www.notion.so/CERE-Ledger-Integration-Grant-RFP-ef6ad55cbe0b4d039a92dc7a5f7ae528?pvs=21)**)
+- BOLOS application for Ledger Nano S/X 
+ - (**[Feature Details](#appendix) below for further details**)
 - Technical Specifications and Documentation
 - C++ Unit Testing
 - Zemu Test Suites
