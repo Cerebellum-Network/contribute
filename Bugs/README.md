@@ -7,14 +7,15 @@ Cere is a decentralized blockchain and p2p cloud storage protocol built for hand
 With Cere Network and the DDC being such a complex system, plus the fact there are real-value digital assets at stake, it’s critical that additional resources are allocated to ensuring the core code commits in the ecosystem should get as many reviews as possible, to minimize risk of exposure to bugs and other issues that might result in system malfunction and loss of funds or data.
 
 ## How to Start
-- Step 1: Sign-up via [this form](https://noteforms.com/forms/contributor-sign-up) to register as a Contributor.
-- Step 2: Report any potential issues discovered.
+- Step 1: Send an email to security@cere.io.
+- Step 2: We will ask you to sign-up via [this form](https://noteforms.com/forms/contributor-sign-up).
+- Step 3: Report any potential issues discovered.
   ⚠️ **DO NOT CREATE ANY PUBLIC ISSUE OR POSTS related to (potential) security related findings**. See the [Responsible Disclosure](https://www.notion.so/Responsible-Disclosure-Policy-ced2b2c1238f403e9f44b692f6e2c695?pvs=21) section below for more details.
 
 That’s it! A member of the the Cere Community team will reach out about your experience completing this mission and clarify any final questions regarding your registration and share additional details about getting started onboarding to Cere Network.
 
 ## Bounty Payouts
-At this time, all security issues reported will be negotiated based on trending market rates, and payout prices will be determined based on the final severity rating provided by our partner and third-party auditor Halborn.
+At this time, all security issues reported will be negotiated based on trending market rates, and payout prices will be determined based on the final severity rating provided by our partner and third-party auditor Halborn. You can offer your own independent audit report too. 
 
 ## In Scope
 These vulnerabilities often require a deep understanding of both traditional web security and the unique aspects of blockchain technology. Each of these topics has its own set of challenges and requires specialized knowledge to tackle effectively.
