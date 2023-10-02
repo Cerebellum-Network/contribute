@@ -95,14 +95,17 @@ To be eligible for a reward related to *high impact or security related issues* 
 
 Instead, send an email to security@cere.io, sharing your preferred contact method (email, telegram, discord, etc) along with your github handle. We will get back to you within 1 business day with confirmation of receiving your report and proposed next steps. [Learn more](https://www.notion.so/Responsible-Disclosure-Policy-ced2b2c1238f403e9f44b692f6e2c695?pvs=21).
 
+You might be contacted by someone on the security team: 
+Chris Ward : @Calmrat on discord and other socials.
+
 Responsible disclosure includes adhering to strict confidentiality and not publishing sensitive information in public, on Github, or anywhere else that might compromise this program’s operational security. 
 
-If you’re not sure, reach out via [security@cere.io](mailto:security@cere.io) with any questions.
+If you’re not sure, reach out via [security@cere.io](mailto:security@cere.io) with any questions, this is your securest line, until soon when we have a more secure decentralized solution.
 
 ### General Issues & Other Feedback
-For general feedback, share your discoveries using this form  ⇒ https://cere.network/feedback.
+For general feedback, share your discoveries using this form  ⇒ https://cere.network/feedback
 
-All other issues and feature requests should be submitted to Github:
+Report non security / high impact bugs, issues and feature requests should be submitted to Github:
 - https://github.com/orgs/Cerebellum-Network
 - https://github.com/cere-io
 
