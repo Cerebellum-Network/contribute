@@ -81,8 +81,10 @@ Achievements: UI Components should should support showing achievements.
 2. Themes: Maintain a per-game config for uniform appearance across all game developer applications, with references like Metaverse Dash Run.
 
 For example player1 killed 20 zombies and got achievement with zombie icon posted below, Leaderboard could look like the following:
- - ![image](./src/imgs/273535206-65a36558-6fc8-4494-af7d-d3952b887b0a.png)
- - ![image](./src/imgs/273535618-bdc260d3-2089-4793-90f2-9c2bfaa91865.png)
+
+![image](./src/imgs/273535206-65a36558-6fc8-4494-af7d-d3952b887b0a.png)
+
+![image](./src/imgs/273535618-bdc260d3-2089-4793-90f2-9c2bfaa91865.png)
 
 ## Community engagement
 
