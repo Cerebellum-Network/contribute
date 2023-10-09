@@ -165,3 +165,5 @@ Accepted grant applications can be amended at any time. However, doing so necess
 If there are significant changes to your delivery schedule, please open a pull request with an updated timeline.
 
 If your deliveries are delayed by more than 2 weeks without justification or further communication, the committee reserves the right to initiate the Grant Termination Process.
+
+Learn more on the [Grants page](https://github.com/Cerebellum-Network/contribute/tree/achievements/Grants).
