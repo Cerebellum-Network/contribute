@@ -68,7 +68,7 @@ For example player1 killed 20 zombies and got achievement with zombie icon poste
 
 ## Milestone 1
 
-** Read/Write/Update Achievement's on DDC with customer Leadeboard UI **
+**Read/Write/Update Achievement's on DDC with customer Leadeboard UI**
 
 - **Estimated Duration:** [Duration]
 - **Costs:** [Cost]
@@ -121,12 +121,3 @@ Relevant additional information:
 - **Work Done So Far:** [Description of the work that has been completed.]
 - **Previous Contributions:** [Information about any teams or entities that have financially contributed to the project.]
 - **Other Grants:** [Information about any other grants applied for or received.]
-## Team
-
-- **Team Members:** [Member 1], [Member 2], [Member 3]
-- **Team Website:** [Team Website Link]
-- **Code Repos:** [Repository Link]
-- **Website:**	[Organization Website]
-- **Legal Structure:** [Legal Structure Type]
-- **Team's Experience:** Brief descriptions of team members' experiences and contributions.
-
