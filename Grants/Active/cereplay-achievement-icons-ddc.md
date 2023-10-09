@@ -23,29 +23,6 @@ Enhance the Cere Gaming SDK to support the tracking of custom in-game activities
 SDK Enhancement: Upgrade the Cere Gaming SDK to monitor custom in-game actions and achievements.
 Achievement Display: Show achievement icons on the leaderboard when a player meets predefined criteria.
 
-## Key Deliverables
-### Delivery Set 1: SDK Method Enhancements
-Achievement Tracking: Introduce new SDK methods to read/write/update custom 'achievement' events in the form of arbitrary JSON data. 
-
-These events should be adaptable based on the game's requirements.
-
-Example 1 
-``` 
-{"fruits_collected": 10}
-```
-
-Example 2
-```
-{
-   "progress":{
-      "achievements":{
-         "cars_stolen": 1
-      }
-   }
-}
-```
-
-## Technical Requirements
 * Store meta-data and digital asset data (png's) on DDC.
 * User profiles should contain achievement data.
 * Link icons with corresponding achievements.
@@ -58,17 +35,16 @@ Example 2
  * Achievements should be linked to the user and icon can be customizable. 
  * Leaderboard has to maintain extensions for user profiles in order to let this implementation to be done.
 
-For example player1 killed 20 zombies and got achievement with zombie icon posted below, Leaderboard could look like the following:
- - ![image](./src/imgs/273535206-65a36558-6fc8-4494-af7d-d3952b887b0a.png)
- - ![image](./src/imgs/273535618-bdc260d3-2089-4793-90f2-9c2bfaa91865.png)
 
-# Development Roadmap
-- **Total Estimated Duration:** [Total Duration]
+
+# **Read/Write/Update Achievement's on DDC with customer Leadeboard UI**
+
+## Development Roadmap
+- **Total Duration:** [Total Duration]
 - **Total Costs:** [Total Cost]
 
-## Milestone 1
-
-**Read/Write/Update Achievement's on DDC with customer Leadeboard UI**
+### Milestone 1: SDK Method Enhancements
+Achievements: Introduce new SDK methods to read/write/update custom 'achievement' events in the form of arbitrary JSON data. 
 
 - **Estimated Duration:** [Duration]
 - **Costs:** [Cost]
@@ -78,9 +54,25 @@ For example player1 killed 20 zombies and got achievement with zombie icon poste
 2. Data Analysis: Events should be collected on the Cere side for future analysis, offering game developers potential restoration points. This data can also aid in constructing an analytics board for activity tracking.
 3. Security Mechanism: The SDK should provide mechanisms to assist developers in performing security checks.
 
-### Milestone 2
+Example 1: 
+``` 
+{"fruits_collected": 10}
+```
 
-**Leaderboard UI Enhancements**
+Example 2:
+```
+{
+   "progress":{
+      "achievements":{
+         "cars_stolen": 1
+      }
+   }
+}
+```
+
+
+### Milestone 2: Leaderboard UI Enhancements
+Achievements: UI Components should should support showing achievements.
 
 - **Estimated Duration:** [Duration]
 - **Costs:** [Cost]
@@ -88,6 +80,9 @@ For example player1 killed 20 zombies and got achievement with zombie icon poste
 1. Customiazble UI: components to display the Leaderboard Screen data, which can encompass custom icons, font customizations, dialog box modifications, dynamic or static text, and animations.
 2. Themes: Maintain a per-game config for uniform appearance across all game developer applications, with references like Metaverse Dash Run.
 
+For example player1 killed 20 zombies and got achievement with zombie icon posted below, Leaderboard could look like the following:
+ - ![image](./src/imgs/273535206-65a36558-6fc8-4494-af7d-d3952b887b0a.png)
+ - ![image](./src/imgs/273535618-bdc260d3-2089-4793-90f2-9c2bfaa91865.png)
 
 ## Community engagement
 
