@@ -169,4 +169,5 @@ If there are significant changes to your delivery schedule, please open a pull r
 If your deliveries are delayed by more than 2 weeks without justification or further communication, the committee reserves the right to initiate the Grant Termination Process.
 
 Learn more on the [Grants page](https://github.com/Cerebellum-Network/contribute/tree/achievements/Grants).
-[cereplay-achievement-icons-ddc.md-main](https://github.com/Cerebellum-Network/contribute/blob/achievements/Grants/Active/cereplay-achievement-icons-ddc.md)
+
+[permalink-main](https://github.com/Cerebellum-Network/contribute/blob/achievements/Grants/Active/cereplay-achievement-icons-ddc.md)
