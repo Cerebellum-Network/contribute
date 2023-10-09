@@ -116,3 +116,52 @@ Relevant additional information:
 - **Work Done So Far:** [Description of the work that has been completed.]
 - **Previous Contributions:** [Information about any teams or entities that have financially contributed to the project.]
 - **Other Grants:** [Information about any other grants applied for or received.]
+
+# Application Process
+## Application Submission
+1. Fork this repository (branch: master) or git pull to update your existing repo.
+2. Create a new branch called Grant App - Project Name.
+3. Create a copy of the Application Template file in the Grants/Applications/ directory of your newly created fork.
+4. Name the new file after your project: project_name.md.
+5. Fill out the template with the details of your project. 💡 That file should contain ALL necessary information for complete evaluation of the proposed grant! And the more information, the faster the review.
+6. Review the Terms and Conditions file inside the Documents folder.
+7. Once you're done, create a pull request.
+ - ⚠️ By initiating a pull request, you are indicating you have ready and accepted the terms and conditions as provided.
+8. At this stage, the pull request should only contain one new file — the markdown file you created from the template.
+
+## Application Review
+The Cere Foundation Grants Committee will issue comments and request changes on the pull request.
+Clarifications and amendments made in the comments need to be included in the application. You may address feedback by modifying your application directly and leaving a comment once you're done.
+The application is accepted when all requested changes are addressed, and the terms and conditions have been agreed upon.
+The application will be subject to automatic rejection after 2 weeks of inactivity. Unless specified otherwise, the day on which it is accepted will be considered the starting date of the project, and will be used to estimate delivery dates.
+
+## Onboarding
+Once your Grant Application (PR) is approved, we will initiate Project Onboarding, where you will:
+
+* be welcomed to the programme with an introduction to the team and an overview of the legal and funding aspects.
+* Meet your Project Mentor.
+* Plan check-in & Office-Hours schedule.
+* Officially Kick-off your project.
+
+## Milestone Review, Delivery, and Payment
+At the end of each month and other important milestone, you will need to provide a comprehensive report of the work done, including the list of issues/bugs/pull requests worked on, time spent on each of these & finally the associated cost.
+⚠️ Make sure to Use the same GitHub account that submitted the application.
+
+Milestones are to be delivered according to the following instructions:
+1. Create a new branch based on the Grant App branch created previously named Milestones - Project Name.
+2. Duplicate the Milestone Delivery Template file in the Milestones Delivery folder.
+3. If this is your first milestone: Create a new folder in the Milestones Delivery folder you’re in now named $Project Name.
+4. Rename the new file to milestone-X.md and move it to the $Project Name folder you created previously.
+5. Follow the instructions as shown in the milestone-X.md file created previously.
+6. Commit the changes to the new previously created project milestones branch.
+7. Prepare a pull request against the original Grants Repository to initiate the review!
+8. Finally, submit your invoice to community@cere.io.
+
+🪙 Payment is made in ERC-20 Cere Token or USDC on Ethereum or Polygon Mainnet.
+
+### Changes to a Grant after Approval
+Accepted grant applications can be amended at any time. However, doing so necessitates a re-evaluation by the committee and requires the same number of approvals as a new application. If your application has been accepted and during development you find that your project significantly deviates from the original specifications, please open a new pull request that modifies the existing application. This also applies in case of significant delays.
+
+If there are significant changes to your delivery schedule, please open a pull request with an updated timeline.
+
+If your deliveries are delayed by more than 2 weeks without justification or further communication, the committee reserves the right to initiate the Grant Termination Process.
