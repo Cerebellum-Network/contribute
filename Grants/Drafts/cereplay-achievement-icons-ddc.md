@@ -73,7 +73,7 @@ Example 2:
 
 ```
 
-### [Milestone 2: Leaderboard UI Enhancements](https://github.com/Cerebellum-Network/contribute/blob/achievements/Grants/Active/cereplay-achievement-icons-ddc.md#milestone-2-leaderboard-ui-enhancements)
+### Milestone 2: Leaderboard UI Enhancements
 
 Achievements: UI Components should should support showing achievements.
 
@@ -92,7 +92,7 @@ For example player1 killed 20 zombies and got achievement with zombie icon poste
 
 1. Publish articles on our Blog, Telegram, Discord, and other community channels to highlight each milestone.
 
-### [Repository Hierarchy](https://github.com/Cerebellum-Network/contribute/blob/achievements/Grants/Active/cereplay-achievement-icons-ddc.md#repository-hierarchy)
+### Repository Hierarchy
 
 ```
 ├── ./ [CerePlay SDK Root]
@@ -184,4 +184,4 @@ If your deliveries are delayed by more than 2 weeks without justification or fur
 
 Learn more on the [Grants page](https://github.com/Cerebellum-Network/contribute/tree/achievements/Grants).
 
-[permalink-main](https://github.com/Cerebellum-Network/contribute/blob/achievements/Grants/Active/cereplay-achievement-icons-ddc.md)
+[permalink](.)
