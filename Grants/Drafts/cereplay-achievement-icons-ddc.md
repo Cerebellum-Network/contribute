@@ -1,4 +1,4 @@
-# CerePlay Games SDK - Custom Achievements | Full Proposal
+# CerePlay Games SDK - Custom Achievements | Full Proposal Request
 
 - **Proposer:** [Your Organization Name](#)
 - **Payment Address:** [Your Payment Address]
