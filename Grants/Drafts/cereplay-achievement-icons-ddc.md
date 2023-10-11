@@ -37,8 +37,6 @@ SDK Enhancement: Upgrade the Cere Gaming SDK to monitor custom in-game actions a
 - Achievements should be linked to the user and icon can be customizable.
 - Leaderboard has to maintain extensions for user profiles in order to let this implementation to be done.
 
-# **Read/Write/Update Achievement's on DDC with custom Leadeboard UI**
-
 ## Development Roadmap
 
 - **Total Duration:** [Total Duration]
