@@ -7,21 +7,22 @@ Cere is a decentralized blockchain and p2p cloud storage protocol built for hand
 With Cere Network and the DDC being such a complex system, plus the fact there are real-value digital assets at stake, it’s critical that additional resources are allocated to ensuring the core code commits in the ecosystem should get as many reviews as possible, to minimize risk of exposure to bugs and other issues that might result in system malfunction and loss of funds or data.
 
 ## How to Start
-- Step 1: Sign-up via [this form](https://noteforms.com/forms/contributor-sign-up) to register as a Contributor.
-- Step 2: Report any potential issues discovered.
+- Step 1: Send an email to security@cere.io.
+- Step 2: We will ask you to sign-up via [this form](https://noteforms.com/forms/contributor-sign-up).
+- Step 3: Report any potential issues discovered.
   ⚠️ **DO NOT CREATE ANY PUBLIC ISSUE OR POSTS related to (potential) security related findings**. See the [Responsible Disclosure](https://www.notion.so/Responsible-Disclosure-Policy-ced2b2c1238f403e9f44b692f6e2c695?pvs=21) section below for more details.
 
 That’s it! A member of the the Cere Community team will reach out about your experience completing this mission and clarify any final questions regarding your registration and share additional details about getting started onboarding to Cere Network.
 
 ## Bounty Payouts
-At this time, all security issues reported will be negotiated based on trending market rates, and payout prices will be determined based on the final severity rating provided by our partner and third-party auditor Halborn.
+At this time, all security issues reported will be negotiated based on trending market rates, and payout prices will be determined based on the final severity rating provided by our partner and third-party auditor Halborn. You can offer your own independent audit report too. 
 
 ## In Scope
 These vulnerabilities often require a deep understanding of both traditional web security and the unique aspects of blockchain technology. Each of these topics has its own set of challenges and requires specialized knowledge to tackle effectively.
 - **Smart Contract Vulnerabilities**: This is often the most critical area in Web3 bug bounties. Issues can range from reentrancy attacks, integer overflows, and unauthorized access to funds or data. Understanding the Solidity programming language and the Ethereum Virtual Machine (EVM) is crucial for identifying these vulnerabilities.
 - **Decentralized Finance (DeFi) Exploits**: With the rise of DeFi platforms, vulnerabilities in lending protocols, yield farming contracts, and decentralized exchanges (DEXs) have become increasingly common. Bugs in these areas can lead to massive financial losses.
 - **Front-End Security**: Even though the blockchain backend might be secure, vulnerabilities in the front-end can expose users to risks like phishing attacks, wallet manipulations, and data leaks. Ensuring the security of Web3-enabled browsers and extensions like MetaMask is essential.
-- **Oracles and Data Feeds**: Oracles provide external data to smart contracts and are a common point of failure. Manipulating oracles can lead to incorrect data being fed into smart contracts, causing unintended behavior.> 
+- **Oracles and Data Feeds**: Oracles provide external data to smart contracts and are a common point of failure. Manipulating oracles can lead to incorrect data being fed into smart contracts, causing unintended behavior.
 - **Governance and Voting Mechanisms**: Many Web3 platforms have governance tokens and voting systems to make collective decisions. Vulnerabilities in these systems can lead to unfair voting, token minting, or changes in critical platform parameters.
 - **Front-End Vulnerabilities**: As mentioned earlier, issues like Cross-Site Scripting (XSS) and Cross-Site Request Forgery (CSRF) can be particularly damaging in a Web3 context, where users often interact with decentralized applications through web interfaces.
 - **Phishing Attacks**: Given the irreversible nature of blockchain transactions, phishing attacks that trick users into revealing their private keys or sending funds to malicious addresses are a significant concern.
@@ -94,14 +95,17 @@ To be eligible for a reward related to *high impact or security related issues* 
 
 Instead, send an email to security@cere.io, sharing your preferred contact method (email, telegram, discord, etc) along with your github handle. We will get back to you within 1 business day with confirmation of receiving your report and proposed next steps. [Learn more](https://www.notion.so/Responsible-Disclosure-Policy-ced2b2c1238f403e9f44b692f6e2c695?pvs=21).
 
+You might be contacted by someone on the security team: 
+Chris Ward : @Calmrat on discord and other socials.
+
 Responsible disclosure includes adhering to strict confidentiality and not publishing sensitive information in public, on Github, or anywhere else that might compromise this program’s operational security. 
 
-If you’re not sure, reach out via [security@cere.io](mailto:security@cere.io) with any questions.
+If you’re not sure, reach out via [security@cere.io](mailto:security@cere.io) with any questions, this is your securest line, until soon when we have a more secure decentralized solution.
 
 ### General Issues & Other Feedback
-For general feedback, share your discoveries using this form  ⇒ https://cere.network/feedback.
+For general feedback, share your discoveries using this form  ⇒ https://cere.network/feedback
 
-All other issues and feature requests should be submitted to Github:
+Report non security / high impact bugs, issues and feature requests should be submitted to Github:
 - https://github.com/orgs/Cerebellum-Network
 - https://github.com/cere-io
 
