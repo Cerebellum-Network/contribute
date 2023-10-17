@@ -6,13 +6,17 @@ Successfully complete this mission for a chance to earn 500 CERE Token.
 
 ## Step 1: Set-up & fund your new Cere Accounts
 
-- [Create an account on Cere Mainnet / Testnet with Polkadot{.js}](https://www.notion.so/5e239372da584de9a257560b6781e2c2?pvs=21)
+- [Create an account with Polkadot{.js}](https://www.notion.so/5e239372da584de9a257560b6781e2c2?pvs=21)
 
     For *Cere Testnet tokens*, you can use the Cere Faucet to deposit 500 tokens to your account.
 
-- [Create an account on Polygon Mainnet with MetaMask](https://www.notion.so/5e239372da584de9a257560b6781e2c2?pvs=21)
+- [Create an account on Polygon with MetaMask](https://www.notion.so/5e239372da584de9a257560b6781e2c2?pvs=21)
 
     For *Cere Polygon / Ethereum Testnet tokens*, request in the [Contributor Discord](https://www.notion.so/Developer-Portal-e9179927d6b8495e8a744f978a8ff3e4?pvs=21).
+
+- [Update your on-chain identity](https://www.notion.so/cere/How-to-Update-an-Identity-on-chain-using-Explorer-63dcb89150a84bfc8ca7db9364141fc0)
+
+    Update your newly created account with a unique name and twitter address on Cere Testnet. 
 
 
 ## Step 2: Complete the Accounts Onboarding Quiz
